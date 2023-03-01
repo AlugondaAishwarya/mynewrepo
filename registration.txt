@@ -63,6 +63,6 @@
       </form>
     </div>
   </div>
-<h2>THANKYOU</h2>
+<h2>THANK YOU ONCE AGAIN</h2>
 </body>
 </html>
