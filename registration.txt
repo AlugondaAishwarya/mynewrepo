@@ -63,6 +63,8 @@
       </form>
     </div>
   </div>
+<<<<<<< HEAD
 <h2>THANK YOU ONCE AGAIN</h2>
+>>>>>>> main
 </body>
 </html>

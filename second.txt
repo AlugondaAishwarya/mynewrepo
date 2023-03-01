@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <body>
+<<<<<<< HEAD
    this is the second file 
+=======
+   this is the second file
+>>>>>>> main
 <h4>gud luck</h4>
 </body>
 </html>
